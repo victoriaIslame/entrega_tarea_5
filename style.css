@@ -1,0 +1,41 @@
+#plato {
+    padding:3rem}
+
+
+#plato * {margin:0 auto;
+}
+    .pancito{ 
+        background-color: #DEB887;
+        min-height: 3.5rem; 
+        width:30rem; 
+        
+    
+     }
+    #vianesa {
+        background-color: rgb(204, 123, 70);
+        min-height: 3.5rem; 
+        width: 35rem;
+        border-radius: 2rem;
+        
+    }
+    #sup{
+        border-top-left-radius: 4rem;
+        border-top-right-radius: 4rem;
+        border-bottom-left-radius: 1rem;
+        border-bottom-right-radius: 1rem;
+        border-bottom:0.6rem solid brown;
+    }
+    #inf{
+        border-top-left-radius: 1rem;
+        border-top-right-radius: 1rem;
+        border-bottom-left-radius: 4rem;
+        border-bottom-right-radius: 4rem;
+        border-top:0.6rem solid brown;
+    }
+    .pancito{
+        background-color: burlywood;
+         min-height: 3.5rem; 
+        width:30rem; 
+        margin: 0px auto; 
+    }
+
